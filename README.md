@@ -1,4 +1,4 @@
-# 🎨 Build Website with Amplify Studio
+# Build Website with Amplify Studio
 
 Visual development with AWS Amplify Studio.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000125-Build-website-with-Amplify-Studio/)**
+**[Start the workshop](https://vanhoangkha.github.io/000125-Build-website-with-Amplify-Studio/)**
 
 ## Prerequisites
 
